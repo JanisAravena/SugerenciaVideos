@@ -1,0 +1,3 @@
+Este proyecto implementa un reproductor multimedia utilizando JavaScript, aplicando el patrón Módulo (IIFE) y la orientación a objetos con clases. El objetivo es mostrar videos de música, películas y series en un documento HTML, permitiendo la reproducción dinámica mediante iframe y la posibilidad de ajustar el tiempo de inicio de cada video. La estructura incluye una clase Multimedia que gestiona la URL de los videos, y una clase hija ReproductorMultimedia que se encarga de reproducir los videos en los elementos del DOM.
+
+Visualiza la aplicación aquí: https://janisaravena.github.io/SugerenciaVideos/ 
